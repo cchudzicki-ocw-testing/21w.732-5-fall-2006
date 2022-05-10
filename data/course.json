@@ -4,11 +4,33 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006"
+    "content": [
+      "8d33dedb-f2df-4c9a-9605-671d03876f6a"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
