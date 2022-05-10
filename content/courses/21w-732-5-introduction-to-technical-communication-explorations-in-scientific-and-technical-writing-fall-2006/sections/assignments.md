@@ -1,6 +1,7 @@
 ---
 content_type: page
 course_id: 21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006
+draft: false
 layout: course_section
 menu:
   21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006:
@@ -10,21 +11,17 @@ menu:
 title: Assignments
 uid: b0cd2206-1cc5-993b-11f4-1ac290f73287
 ---
+This section features detailed instructions for the [papers](#Papers) and lists all the [short assignments](#Short_Assignments). Please consult the {{% resource_link "44eabdb4-193c-1f9b-a98d-bcf8a3805d60" "calendar" %}} for all relevant due dates.
 
-This section features detailed instructions for the [papers](#Papers) and lists all the [short assignments](#Short_Assignments). Please consult the [calendar]({{% getpage "courses/21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006/sections/calendar" %}}) for all relevant due dates.
-
-Manuscript Drafts and Submission Guidelines
--------------------------------------------
+## Manuscript Drafts and Submission Guidelines
 
 Both papers and short assignments (except short assignment #4) are due in class in hard copy on the date listed and should be submitted on the class Web site, by class time, as well. Assignments should all have a title, your name (on all pages) and a date on them, twelve point type, and one inch margins all around. The electronic version should be in either Microsoft® Word or RTF format.
 
-Workshop and Revision
----------------------
+## Workshop and Revision
 
 On workshop days, the hard copy draft will be workshopped with your peers during class. I will comment the electronic submissions and return them to you on the class Web site. Usually, paper drafts are due on a Thursday and I will get them back to you by the following Tuesday. I will generally not comment the final, graded version of your papers, but you are welcome to see me during office hours to discuss your papers (at any stage of your writing). You may revise a graded paper (and I will then average the grades), but you must come discuss the paper with me before doing so.
 
-{{< anchor "Papers" >}}{{< /anchor >}}Papers
---------------------------------------------
+## {{< anchor "Papers" >}}{{< /anchor >}}Papers
 
 ### Paper 1: Narrative Essay, ca. 800 words
 
@@ -48,34 +45,31 @@ In this assignment, you will develop an idea for a course at MIT, undergraduate,
 
 An in-class, oral presentation of your Design Proposal. Eight minutes to present; two minutes to answer questions.
 
-{{< anchor "Short_Assignments" >}}{{< /anchor >}}Short Assignments
-------------------------------------------------------------------
+## {{< anchor "Short_Assignments" >}}{{< /anchor >}}Short Assignments
 
 Note: For short assignments 3, 4, and 7 (which are written proposals of papers 2, 3, and 4, respectively), you will write from a few sentences to a paragraph about what you plan to do. This shouldn't take much time or effort, but it is important that you complete these assignments and complete them on time.
 
-1.  Make a list of the steps you take from the time you are given a writing assignment to the time you hand it in. Make sure that you include the more "casual" steps in your process. That is, not just "then I revise," but also, "I meditate/eat cookies/lift weights/take a walk, then I revise."
-2.  Find an ad for a job that appeals to you and write a letter of application for that job-essentially a one page cover letter to go with a c.v. Bring in both the ad and the letter. You may fictionalize your cover letter but it should be serious rather than satirical.
-3.  Brief written proposal of what you plan to write on for Paper 2.
-4.  Brief written proposal of what you plan to write on for Paper 3.
-5.  Bring in a book review from a technical journal in your field.
-6.  List at least five ways in which you think the design of the course is working well and five things that you would modify, eliminate, or supplement.
-7.  Brief written proposal of what you plan to write on for Paper 4.
-8.  List five Web page design characteristics you find appealing and five which you find problematic.
-9.  Write a short, email response to a technical problem.
-10.  List at least five ways in which you think the design of the course is working well and five things that you would modify, eliminate, or supplement.
+1. Make a list of the steps you take from the time you are given a writing assignment to the time you hand it in. Make sure that you include the more "casual" steps in your process. That is, not just "then I revise," but also, "I meditate/eat cookies/lift weights/take a walk, then I revise."
+2. Find an ad for a job that appeals to you and write a letter of application for that job-essentially a one page cover letter to go with a c.v. Bring in both the ad and the letter. You may fictionalize your cover letter but it should be serious rather than satirical.
+3. Brief written proposal of what you plan to write on for Paper 2.
+4. Brief written proposal of what you plan to write on for Paper 3.
+5. Bring in a book review from a technical journal in your field.
+6. List at least five ways in which you think the design of the course is working well and five things that you would modify, eliminate, or supplement.
+7. Brief written proposal of what you plan to write on for Paper 4.
+8. List five Web page design characteristics you find appealing and five which you find problematic.
+9. Write a short, email response to a technical problem.
+10. List at least five ways in which you think the design of the course is working well and five things that you would modify, eliminate, or supplement.
 
-Group Presentation
-------------------
+## Group Presentation
 
 In addition to the short written assignments, each student will be responsible for participating in a group presentation, with two or three other students. The following topics will essentially be student-presented:
 
-*   Argument
-*   Reviews and Critiques
-*   Graphics
-*   Web page Writing and Design
-*   Email
+- Argument
+- Reviews and Critiques
+- Graphics
+- Web page Writing and Design
+- Email
 
-Conferences
------------
+## Conferences
 
 One individual conference is required. A group conference, tied to the assignment above, is also required.
