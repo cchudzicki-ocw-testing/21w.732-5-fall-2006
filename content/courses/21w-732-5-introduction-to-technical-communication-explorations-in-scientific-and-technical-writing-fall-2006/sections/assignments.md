@@ -11,7 +11,7 @@ menu:
 title: Assignments
 uid: b0cd2206-1cc5-993b-11f4-1ac290f73287
 ---
-This section features detailed instructions for the [papers](#Papers) and lists all the [short assignments](#Short_Assignments). Please consult the {{% resource_link "44eabdb4-193c-1f9b-a98d-bcf8a3805d60" "calendar" %}} for all relevant due dates.
+This section features detailed instructions for the [papers](#Papers) and lists all the [short assignments](#Short_Assignments). Please consult the {{% resource_link "44eabdb4-193c-1f9b-a98d-bcf8a3805d60" "calendar" %}} for all relevant due dates. 
 
 ## Manuscript Drafts and Submission Guidelines
 
