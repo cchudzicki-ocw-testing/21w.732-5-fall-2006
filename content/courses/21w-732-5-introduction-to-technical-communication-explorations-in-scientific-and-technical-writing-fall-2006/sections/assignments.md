@@ -1,6 +1,8 @@
 ---
 content_type: page
 course_id: 21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006
+description: This section features detailed instructions for the papers and lists
+  all the short assignments.
 draft: false
 layout: course_section
 menu:
