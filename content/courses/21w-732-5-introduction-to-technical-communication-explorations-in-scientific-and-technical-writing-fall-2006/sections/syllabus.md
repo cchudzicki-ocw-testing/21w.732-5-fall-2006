@@ -1,6 +1,9 @@
 ---
 content_type: page
 course_id: 21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006
+description: This syllabus section provides a course overview and information on meeting
+  times, textbooks, written requirements, course structure, attendance, participation,
+  grading, deadlines, and access to the instructor.
 layout: course_section
 menu:
   21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006:

@@ -1,6 +1,8 @@
 ---
 content_type: page
 course_id: 21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006
+description: This section provides information on the required text for the course
+  and the schedule of readings by session.
 layout: course_section
 menu:
   21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006:
